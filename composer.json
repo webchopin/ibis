@@ -19,15 +19,15 @@
         "ibis"
     ],
     "require": {
-        "illuminate/filesystem": "^7.0|^8.0",
-        "illuminate/support": "^7.0|^8.0",
-        "symfony/console": "^4.2|^5.0",
+        "illuminate/filesystem": "^9.0|^10.0",
+        "illuminate/support": "^9.0|^10.0",
+        "symfony/console": "^6.0",
         "mpdf/mpdf": "^8.1",
-        "spatie/commonmark-highlighter": "^2.1"
+        "spatie/commonmark-highlighter": "^3.0"
     },
     "require-dev": {
-        "friendsofphp/php-cs-fixer": "^2.18",
-        "symfony/var-dumper": "^5.0"
+        "friendsofphp/php-cs-fixer": "^3.21",
+        "symfony/var-dumper": "^6.0"
     },
     "autoload": {
         "psr-4": {
